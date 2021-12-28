@@ -10,11 +10,11 @@
     "dist",
     "index.d.ts"
   ],
-  "repository": "draftbit/twitter-lite",
-  "homepage": "https://github.com/draftbit/twitter-lite",
-  "author": "Peter Piekarczyk <peter@peterp.me>",
+  "repository": "lmx-Hexagram/twitter-lite",
+  "homepage": "https://github.com/lmx-Hexagram/twitter-lite",
+  "author": "lmx-Hexagram",
   "contributors": [
-    "Dan Dascalescu (https://github.com/dandv)"
+    "lmx-Hexagram (https://github.com/lmx-Hexagram)"
   ],
   "license": "MIT",
   "keywords": [
@@ -28,7 +28,7 @@
     "twitter stream"
   ],
   "dependencies": {
-    "cross-fetch": "^3.0.0",
+    "node-fetch": "^3.1.0",
     "oauth-1.0a": "^2.2.4"
   },
   "devDependencies": {
